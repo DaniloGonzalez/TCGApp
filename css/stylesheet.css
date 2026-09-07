@@ -8,9 +8,17 @@ header {
     background-color: #181c26;
     padding: 20px;
 }
+
+.logo {
+    width: 120px;
+}
+
 .navbar {
     width: 90%;
     margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .nav-links {
     display: flex;
